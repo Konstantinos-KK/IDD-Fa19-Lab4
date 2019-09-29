@@ -42,16 +42,21 @@ void loop() {
 }
 ```
 ## Part C. Integrating input and output 
+
+**Include a photo/movie of your raw circuit in action.**
+
 [Code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab4/blob/master/sweep_analog.ino)  
 [Video](https://youtu.be/LWQdxDMLRC8)
 
-**Include a photo/movie of your raw circuit in action.**
 
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.** [Video](https://www.youtube.com/watch?v=VkatmGqzIzM&feature=share&fbclid=IwAR2_EcDFMrH6_L-Eo_gUxD42kdJwWeZwMu15XN4BkRmVeGk29BHo7W9yJa4)
 
 ## Part E. Make it your own  
+![Image](https://github.com/Konstantinos-KK/IDD-Fa19-Lab4/blob/master/make%20it%20your%20own.jpg)
+
+
 [Code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab4/blob/master/final_code.ino)
 
 **a. Make a video of your final design.**
