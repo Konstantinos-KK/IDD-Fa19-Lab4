@@ -41,7 +41,9 @@ void loop() {
   }
 }
 ```
-## Part C. Integrating input and output
+## Part C. Integrating input and output 
+[Code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab4/blob/master/sweep_analog.ino)  
+[Video](https://youtu.be/LWQdxDMLRC8)
 
 **Include a photo/movie of your raw circuit in action.**
 
