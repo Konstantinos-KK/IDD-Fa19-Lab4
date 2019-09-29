@@ -2,19 +2,15 @@
 
 *A lab report by Konstantinos Karras Kallidromitis*
 
-## In this Report
-
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
-
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+**Link to a video of your virbation motor** [Youtube Video](https://youtu.be/xtYdkZ5A5lQ)
 
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
 
-**a. Which color wires correspond to power, ground and signal?**
+**a. Which color wires correspond to power, ground and signal?** Yellow: Signal (Input Pin) , Red: Power (VDD - 5V), Brown: Ground
 
 ### Part 2. Connect the Servo to your Arduino
 
