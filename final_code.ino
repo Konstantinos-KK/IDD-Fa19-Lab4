@@ -26,6 +26,6 @@ void loop() {
       myservo.write(pos);              // tell servo to go to position in variable 'pos'
       delay(y_secs);                       // waits 15ms for the servo to reach the position
     }
-    if (y>150){y-=10;}
-    if (y_secs>1){y_secs-=1;}
+    if (y>150){y-=10;}else{y=180;}
+    if (y_secs>1){y_secs-=1;}else{y_secs=5;}
 }
