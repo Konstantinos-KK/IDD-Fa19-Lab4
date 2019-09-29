@@ -4,7 +4,7 @@
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor** [Youtube Video](https://youtu.be/xtYdkZ5A5lQ)
+**Link to a video of your virbation motor** [Video](https://youtu.be/xtYdkZ5A5lQ)
 
 ## Part B. Actuating Servo motors
 
@@ -49,9 +49,12 @@ void loop() {
 
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
+**a. Make a video of your proto puppet.** [Video](https://www.youtube.com/watch?v=VkatmGqzIzM&feature=share&fbclid=IwAR2_EcDFMrH6_L-Eo_gUxD42kdJwWeZwMu15XN4BkRmVeGk29BHo7W9yJa4)
 
-## Part E. Make it your own
+## Part E. Make it your own  
+[Code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab4/blob/master/final_code.ino)
 
 **a. Make a video of your final design.**
  
+Video was made in collaboration with Matt Freed
+[Video](https://youtu.be/YpFxZpohXxY)
