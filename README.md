@@ -54,7 +54,11 @@ void loop() {
 **a. Make a video of your proto puppet.** [Video](https://www.youtube.com/watch?v=VkatmGqzIzM&feature=share&fbclid=IwAR2_EcDFMrH6_L-Eo_gUxD42kdJwWeZwMu15XN4BkRmVeGk29BHo7W9yJa4)
 
 ## Part E. Make it your own  
-![Image](https://github.com/Konstantinos-KK/IDD-Fa19-Lab4/blob/master/make%20it%20your%20own.jpg)
+<p align="center"> <b> My puppet </b> </p>
+<p float="left">
+  <img src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab3/blob/master/photoresistor.png" width="425" />
+  <img src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab3/blob/master/example_circuit_bb-pulldown.png" width="425" /> 
+</p>
 
 
 [Code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab4/blob/master/final_code.ino)
