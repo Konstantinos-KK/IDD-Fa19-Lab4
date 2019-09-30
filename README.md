@@ -56,8 +56,8 @@ void loop() {
 ## Part E. Make it your own  
 <p align="center"> <b> My puppet </b> </p>
 <p float="left">
-  <img src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab3/blob/master/photoresistor.png" width="425" />
-  <img src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab3/blob/master/example_circuit_bb-pulldown.png" width="425" /> 
+  <img src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab4/blob/master/pupper1.jpg" width="425" />
+  <img src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab4/blob/master/pupper2.jpg" width="425" /> 
 </p>
 
 
